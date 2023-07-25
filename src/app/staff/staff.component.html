@@ -1,0 +1,30 @@
+<div class="staff-image">
+    <div class="container">
+        <form action="" (ngSubmit)="getStaffData()">
+            <table>
+                <tr> <label for="" style="color: white;">Email-ID</label></tr>
+                <tr>
+                    <div [formGroup]="staffData"><input type="email" placeholder="example@gmail.com"
+                            style="background-color: transparent;" [(ngModel)]="email" formControlName="email"
+                            class="form-control" name="email"></div>
+                </tr><br>
+                <p *ngIf="submit&& staffData.get('email')?.hasError('required')">Email is required</p>
+                <tr> <label for="" style="color: white;">Password</label></tr>
+                <tr> <input [type]="passwordshow" placeholder="Password"
+                        style="background-color: transparent;position: relative;" [(ngModel)]="password"
+                        class="form-control" name="password">
+                    <span (click)="toggle()"><i class="fa-solid fa-eye" *ngIf="!show"></i>
+                        <i class="fa-solid fa-eye-slash" *ngIf="show"></i>
+                    </span>
+                </tr>
+                <br>
+
+                <button class="btn btn-success" routerLink="/staff/staffdetails">Login</button>
+                <hr>
+                <h4 style="color: red; font-weight: 700;">Don't have Account?<a routerLink=""
+                        style="color: white;">create</a></h4>
+
+            </table>
+        </form>
+    </div>
+</div>

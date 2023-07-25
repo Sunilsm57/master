@@ -1,0 +1,82 @@
+<a routerLink=""><ngb-carousel>
+        <ng-template ngbSlide style="width: 100%;height: 300px;">
+            <div class="picsum-img-wrapper">
+                <img src="../../assets/images/49.jpg" style="width: 100%;height: 500px;" alt="Random first slide" />
+            </div>
+            <div class="carousel-caption">
+                <h3>First slide label</h3>
+                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide style="width: 100%;height: 300px;">
+            <div class="picsum-img-wrapper">
+                <img src="../../assets/images/gallery-img1.jpg" style="width: 100%;height: 500px;"
+                    alt="Random second slide" />
+            </div>
+            <div class="carousel-caption">
+                <h3>Second slide label</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide>
+            <div class="picsum-img-wrapper">
+                <img src="../../assets/images/students-gdbfdb98a9_1280.jpg" style="width: 100%;height: 500px;"
+                    alt="Random third slide" />
+            </div>
+            <div class="carousel-caption">
+                <h3>Third slide label</h3>
+                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            </div>
+        </ng-template>
+        <ng-template ngbSlide style="width: 100%;height: 300px;">
+            <div class="picsum-img-wrapper">
+                <img src="../../assets/images/720843.jpg" style="width: 100%;height: 500px;"
+                    alt="Random second slide" />
+            </div>
+            <div class="carousel-caption">
+                <h3>Second slide label</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+        </ng-template>
+    </ngb-carousel>
+    <div class="blank"></div>
+</a>
+<h1 style="text-align: center;font-family: monospace;">Welcome to EuroKids</h1>
+<p>EuroKids is a community of learners including students, parents and staff who are dedicated to creating an
+    academically rigorous, culturally caring and inclusive learning environment. We are Reaching Excellence in Academics
+    and Changing History! Together, we are champions of knowledge, our communities, the environment and of our futures.
+    REACH Achievers are goal-oriented, critical thinkers and community leaders who are dedicated to achieving the
+    highest level of integrity and academic success.
+
+    The administration and staff are committed to providing a challenging and supportive learning environment where all
+    students can succeed and reach their full potential. Every member participates in cycles of continuous learning and
+    improvement that includes establishing high expectations, goal setting, planning, action and reflection. We develop
+    a culture of excellence that includes a robust instructional program aligned to the Common Core State Standards
+    (CCSS) with a focus on implementing Balanced Literacy through Reading and Writing Workshop, as well as by building
+    language, literacy and competency across all subject areas. This includes the integration of science, technology,
+    engineering and math (STEM) into the curriculum and by establishing a strong culture and climate.
+
+    To this end, we seek to develop well-rounded students who exemplify health, wellness and character development using
+    our core schoolwide expectations and values (Be Safe, Be Respectful, Be Responsible and Be Mindful).
+
+    Through discovery, exploration, innovation, and creative expression through Arts integration and after school
+    enrichment opportunities, students receive rich, extended learning opportunities while building a positive school
+    culture where every member feels valued and respected.
+
+    Through coaching, collaboration and building professional learning communities, we offer staff professional
+    development training to build teachers capacity to improve instructional practices and to accelerate student
+    achievement.
+
+    Finally, we support a community schools approach that organizes and maximizes resources from the school and
+    community based partnerships to ensure every student thrives and to support student success in alignment with the
+    school priorities.</p>
+<p style="color: green;">Our school timings mon-friday(9am-5pm) saturday(8am-1pm)</p>
+<h5 style="text-align: center;background-color: black;color: wheat;">Our organization Members</h5>
+<div class="card" *ngFor="let staff of staffMembers">
+    <div>
+        <img [src]="staff.image" alt="" style="width: 250px;height: 200px;">
+        <h4 style="text-align: center;">{{staff.name}}</h4>
+        <h5 style="text-align: center;">{{staff.designation}}</h5>
+    </div>
+</div>
+<footer style="text-align: center;">&copy; Copyright 2023 Eurokids</footer>

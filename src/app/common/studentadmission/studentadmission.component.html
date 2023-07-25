@@ -1,0 +1,122 @@
+<form action="" [formGroup]="admissionData" (ngSubmit)="setStudentDetails()">
+    <div class="container">
+        <div class="main-1">
+            <table>
+                <tr>
+                    <td>Student Name:</td>
+                    <td><input type="text" formControlName="name" [(ngModel)]="name" style="margin-top: 10px;"
+                            class="form-control" placeholder="enter the student name with initials"></td>
+                </tr> <br>
+
+
+                <tr>
+                    <td>Gender</td>
+                    <td><input type="radio" name="gender" [(ngModel)]="gender" formControlName="gender"
+                            value="male">male &nbsp; <input type="radio" name="gender" value="female">female</td>
+                </tr> <br>
+                <tr>
+                    <td>D-O-B:</td>
+                    <td><input formControlName="DOB" [(ngModel)]="DOB" type="date" class="form-control"></td>
+                </tr> <br>
+                <tr>
+                    <td>Age:-</td>
+                    <td><input type="number" [(ngModel)]="age" formControlName="age" class="form-control"
+                            placeholder="enter the student age"></td>
+                </tr> <br>
+                <tr>
+                    <td>FatherName-</td>
+                    <td><input type="text" [(ngModel)]="fatherName" formControlName="fatherName" class="form-control"
+                            placeholder="enter the student age"></td>
+                </tr> <br>
+                <tr>
+                    <td>MotherName:-</td>
+                    <td><input type="text" [(ngModel)]="motherName" formControlName="motherName" class="form-control"
+                            placeholder="enter the student age"></td>
+                </tr> <br>
+                <tr>
+                    <td>Parent Email-ID:-</td>
+                    <td><input type="email" [(ngModel)]="emailId" formControlName="emailId" class="form-control"
+                            placeholder="enter the Email-ID"></td>
+                </tr> <br>
+                <tr>
+                    <td>Adhaar number:-</td>
+                    <td><input type="number" [(ngModel)]="adhaarno" formControlName="adhaarno" class="form-control"
+                            placeholder="enter the student adhaar no"></td>
+                </tr> <br>
+                <tr>
+                    <td>Parent Mobile no:-</td>
+                    <td><input type="number" [(ngModel)]="mobileno" formControlName="mobileno" value="+91"
+                            class="form-control" placeholder="enter the mobile number">
+                    </td>
+                </tr> <br>
+                <tr>
+                    <td>Permanent address:-</td>
+                    <td><textarea name="" id="" [(ngModel)]="permanentaddress" formControlName="permanentaddress"
+                            class="form-control" cols="30" rows="5"></textarea> </td>
+                </tr> <br>
+            </table>
+        </div>
+        <div class="main-2">
+
+            <table>
+                <tr>
+                    <td>Temporary address:-</td>
+                    <td><textarea name="" [(ngModel)]="temporaryaddress" formControlName="temporaryaddress"
+                            style="margin-top: 10px;" class="form-control" id="" cols="30" rows="5"></textarea> </td>
+                </tr> <br>
+                <tr>
+                    <td>Alternate Mobile no:-</td>
+                    <td><input type="number" [(ngModel)]="alternateno" formControlName="alternateno"
+                            class="form-control" placeholder="enter the mobile number"></td>
+                </tr> <br>
+
+                <tr>
+                    <td>Student photo:-</td>
+                    <td><input type="file" class="form-control" placeholder="enter the Email-ID"></td>
+                </tr> <br>
+                <tr>
+                    <td>Bus facility:-</td>
+                    <td><select name="" [(ngModel)]="busfacility" class="form-control" formControlName="busfacility"
+                            id="">
+                            <option value="">select yes/no</option>
+                            <option value="yes">yes</option>
+                            <option value="no">no</option>
+                        </select>
+                    </td>
+                </tr> <br>
+                <tr>
+                    <td>Previous school name:-</td>
+                    <td><input type="text" [(ngModel)]="perviousschool" class="form-control"
+                            formControlName="perviousschool" placeholder="enter the school name"></td>
+                </tr> <br>
+                <tr>
+                    <td>Fees:-</td>
+                    <td><input type="number" formControlName="fees" [(ngModel)]="fees" class="form-control"
+                            placeholder="enter the fees amount"></td>
+                </tr> <br>
+                <tr>
+                    <td>Admission For</td>
+                    <td> <select class="form-control" [(ngModel)]="admissionfor" formControlName="admissionfor"
+                            (change)="getClass($event)">
+                            <option value="">Select class</option>
+                            <option>1st-standard</option>
+                            <option>2nd-standard</option>
+                            <option>3rd-standard</option>
+                            <option>4th-standard</option>
+                            <option>5th-standard</option>
+                            <option>6th-standard</option>
+                            <option>7th-standard</option>
+                            <option>8th-standard</option>
+                            <option>9th-standard</option>
+                            <option>10th-standard</option>
+                        </select></td>
+                </tr><br>
+                <tr>
+                    <td></td>
+                    <td><button type="submit" (click)=" setStudentDetails()" class="btn btn-success">submit</button>
+                    </td>
+                </tr> <br>
+            </table>
+        </div>
+    </div>
+</form>

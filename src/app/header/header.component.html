@@ -1,0 +1,18 @@
+<nav>
+    <div class="navigation">
+        <a routerLink="/"><img src="../../assets/images/download.png" alt="" style="width: 70px;height: 60px;"></a>
+        <h3 style="margin-top: 10px;font-family: monospace;letter-spacing: 2px;">Euro-Kids</h3>
+        <select (change)="navigateTo($event)"
+            style="background-color: #adc178; width: 100px; height: 30px;margin-top: 15px;border: 0px solid #adc178;">Login-As
+            <option value="">Login-As
+            </option>
+            <option value="/stafflogin"><a style="margin-top: 14px;">Staff-Login</a>
+            </option>
+            <option value="/admin">
+                <a routerLink="" style="margin-top: 14px;">Admin-Login</a>
+            </option>
+            <option value="/parentlogin"><a routerLink="" style="margin-top: 14px;">Parents-Login</a></option>
+        </select>
+        <a routerLink="/contactus" style="margin-top: 14px;">Contact-us</a>
+    </div>
+</nav>

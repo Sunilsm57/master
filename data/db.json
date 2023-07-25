@@ -1,0 +1,717 @@
+{
+  "1st-standard": [
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Akash S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Arun k",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Abhi S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Arjun S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Akshay S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Sunil S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Amruth S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Abhi S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "01",
+      "name": "Srujan",
+      "admissionfor": "1st standard",
+      "age": "06",
+      "DOB": "01/01/2018",
+      "adhaarno": "634545656553",
+      "photo": "",
+      "gender": "male",
+      "fatherName": "Sunil S.M",
+      "motherName": "Pooja S.P",
+      "mobileno": "9876671785",
+      "alternateno": "9876671786",
+      "emailId": "ramesh@gmail.com",
+      "religion": "hindu",
+      "fees": "16000",
+      "permanentaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "temporaryaddress": "#55,2nd main 3rd cross Bommanahalli",
+      "perviousschool": "Chethana public school",
+      "busfacility": "",
+      "attendancestatus": ""
+    },
+    {
+      "id": "YNtzfBQ"
+    },
+    {
+      "name": "Akash A",
+      "adhaarno": 8980989724,
+      "age": 10,
+      "admissionfor": "1st-standard",
+      "DOB": "2013-01-19",
+      "gender": "male",
+      "fatherName": "Arun M",
+      "motherName": "Sri devi",
+      "mobileno": 9336715376,
+      "alternateno": 983676731,
+      "emailId": "arun@gmail.com",
+      "fees": 10000,
+      "permanentaddress": "2nd stage",
+      "temporaryaddress": "2nd stage\nrajajinagar",
+      "perviousschool": "j s s",
+      "busfacility": "yes",
+      "id": "zc_pNL2"
+    }
+  ],
+  "2nd-standard": [
+    {
+      "id": "01",
+      "name": "Ankitha",
+      "admissionfor": "2ndstandard",
+      "age": "7",
+      "DOB": "03/04/2017",
+      "adhaarno": "784755474514",
+      "photo": "ghgjhgf",
+      "gender": "female",
+      "fatherName": "Anoop",
+      "motherName": "Asha s",
+      "mobileno": "8989873924",
+      "alternateno": "09723762653",
+      "emailId": "anoop12@gmail.com",
+      "religion": "Hindu",
+      "fees": "19500",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "3rd-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "4th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "5th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "6th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "7th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "8th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "9th-standard": [
+    {
+      "id": "",
+      "name": "",
+      "admissionfor": "",
+      "age": "",
+      "DOB": "",
+      "adhaarno": "",
+      "photo": "",
+      "gender": "",
+      "fatherName": "",
+      "motherName": "",
+      "mobileno": "",
+      "alternateno": "",
+      "emailId": "",
+      "religion": "",
+      "admission": "",
+      "fees": "",
+      "permanentaddress": "",
+      "temporaryaddress": "",
+      "perviousschool": "",
+      "busfacility": "",
+      "attendancestatus": ""
+    }
+  ],
+  "10th-standard": [
+    {
+      "name": "Sharan kumar M ",
+      "adhaarno": 90876980765,
+      "age": 13,
+      "admissionfor": "10th-standard",
+      "DOB": "2010-02-12",
+      "gender": "male",
+      "fatherName": "Mahesh M ",
+      "motherName": "Anusha G",
+      "mobileno": 7899006567,
+      "alternateno": 8879675743,
+      "emailId": "mahesh@gmail.com",
+      "fees": 20000,
+      "permanentaddress": "3rd sector H S R layout Banglore ",
+      "temporaryaddress": "3rd sector H S R layout Banglore ",
+      "perviousschool": "Jain school",
+      "busfacility": "yes",
+      "id": "vOUO1Ok"
+    }
+
+  ],
+  "staffRegistration": [
+    {
+      "id": "",
+      "name": "xyz",
+      "emailId": "xyz@gmail.com",
+      "D-O-B": "",
+      "photo": "",
+      "gender": "",
+      "qualification": "",
+      "subject": "",
+      "address": "",
+      "mobileno": "",
+      "password": "xyz@123",
+      "attendancestatus": ""
+    }
+  ],
+  "feesStructure": [
+    {
+      "class": "1st standard",
+      "fees": 10000,
+      "instalment": 13000
+    },
+    {
+      "class": "2nd standard",
+      "fees": 15000,
+      "instalment": 18000
+    },
+    {
+      "class": "3rd standard",
+      "fees": 20000,
+      "instalment": 18000
+    },
+    {
+      "class": "4th standard",
+      "fees": 23000,
+      "instalment": 27000
+    },
+    {
+      "class": "5th standard",
+      "fees": 26000,
+      "instalment": 29000
+    },
+    {
+      "class": "6th standard",
+      "fees": 30000,
+      "instalment": 33000
+    },
+    {
+      "class": "7th standard",
+      "fees": 33000,
+      "instalment": 36000
+    },
+    {
+      "class": "8th standard",
+      "fees": 36000,
+      "instalment": 39000
+    },
+    {
+      "class": "9th standard",
+      "fees": 40000,
+      "instalment": 43000
+    },
+    {
+      "class": "10th standard",
+      "fees": 50000,
+      "instalment": 53000
+    }
+  ],
+  "parentsLogin": [
+    {
+      "username": "Eurokids",
+      "password": "eurokids@1234"
+    }
+  ],
+  "staffMembers": [
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    },
+    {
+      "name": "Naraya kumar M",
+      "designation": "Founder",
+      "image": "https://www.asancbse.com/assets/images/gopal.jpg"
+    }
+  ],
+  "accessablemodules": [
+    {
+      "title": "Student Admission",
+      "icon":"fa-solid fa-school",
+      "route": "/common/studentadmission"
+    },
+    {
+      "title": "Student Detail",
+      "icon":"fa-solid fa-children",
+      "route": "/common/studentdetails"
+    },
+    {
+      "title": "Staff Attendance",
+      "icon":"fa-solid fa-child",
+      "route": "/student/"
+    },
+    {
+      "title": "Staff Onboarding",
+      "icon":"fa-sharp fa-regular fa-address-card",
+      "route": "/student/"
+    },
+    {
+      "title": "Time Table",
+      "icon":"fa-solid fa-clock",
+      "route": "/common/timetable"
+    },
+    {
+      "title": "Exam Results",
+      "icon":"fa-solid fa-percent",
+      "route": "/student/"
+    },
+    {
+      "title": "Academic Activities ",
+      "icon":"fa-solid fa-calendar-days",
+      "route": "/common/academicactivities"
+    }
+  ],
+  "academicactivities": [
+    {
+      "title": "Academic Related Co-curricular Activities",
+      "activitie1": "Book clubs",
+      "activitie2": "School magazine editor",
+      "activitie3": " Poetry recitation",
+      "activitie4": "Debates",
+      "activitie5": "Organizing exhibitions",
+      "activitie6": "Story-writing"
+    },
+    {
+      "title": "Leisure Related Co-curricular Activities",
+      "activitie1": "Gardening",
+      "activitie2": "Coin collection",
+      "activitie3": " Model making"
+    },
+    {
+      "title": "Social development Related Co-curricular Activities",
+      "activitie1": "Scouting and guiding",
+      "activitie2": "School council activities"
+    },
+    {
+      "title": "Picnics and excursions Related Co-curricular Activities",
+      "activitie1": "Hiking",
+      "activitie2": "Trekking"
+    },
+    {
+      "title": "Physical Related Co-curricular Activities",
+      "activitie1": "Outdoor and indoor games",
+      "activitie2": "N.C.C",
+      "activitie3": "Mass P.T"
+    },
+    {
+      "title": "Cultural Development Related Co-curricular Activities",
+      "activitie1": "Dance",
+      "activitie2": "Music",
+      "activitie3": "Folk Dance"
+    },
+    {
+      "title": "Civic Values Related Co-curricular Activities",
+      "activitie1": "Organizing camps, such as first aid camp, and cleanliness week.",
+      "activitie2": "A celebration of the special day"
+    },
+    {
+      "title": " Arts and Craft Related Co-curricular Activities",
+      "activitie1": "Album making",
+      "activitie2": "Doll making",
+      "activitie3": "Photography",
+      "activitie4": "Cooking",
+      "activitie5": "Flower decoration",
+      "activitie6": "Clay modeling"
+    }
+  ],
+  "staffattendance": [
+    {
+      "name": "Sanjay kumar",
+      "subject": "",
+      "attendancestatus": "Present",
+      "date": "13/07/2023"
+    }
+  ],
+  "timetable1ststand": [
+    {
+      "one": "English",
+      "two": "Hindi",
+      "three": "Science",
+      "four": "Lunch-Break",
+      "five": "Kannada",
+      "six": "Social",
+      "seven": "Maths"
+    },
+    {
+      "one": "Hindi",
+      "two": "English",
+      "three": "Science",
+      "four": "Lunch-Break",
+      "five": "Social",
+      "six": "Kannada",
+      "seven": "Maths"
+    },
+    {
+      "one": " Science",
+      "two": "Hindi",
+      "three": "English",
+      "four": "Lunch-Break",
+      "five": "Maths",
+      "six": "Kannada",
+      "seven": "Social"
+    },
+    {
+      "one": "Kannada",
+      "two": "Hindi",
+      "three": "Science",
+      "four": "Lunch-Break",
+      "five": " English",
+      "six": "Maths",
+      "seven": "Social "
+    },
+    {
+      "one": "Kannada",
+      "two": "Hindi",
+      "three": "Science",
+      "four": "Lunch-Break",
+      "five": "English",
+      "six": "Social",
+      "seven": "Maths"
+    },
+    {
+      "one": "Mass P.T",
+      "two": "Drawing",
+      "three": "Paper craft",
+      "four": "Games"
+    }
+  ]
+}

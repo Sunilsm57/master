@@ -1,0 +1,10 @@
+<h1>Welcome to Parent Dashboard!</h1>
+<ul>
+    <li *ngFor="let student of students" (click)="showStudentDetails(student.id)">
+        {{ student.name }}
+    </li>
+</ul>
+<div *ngIf="selectedStudent">
+    <h2>{{ selectedStudent.name }} Details</h2>
+    <!-- Display other student details here -->
+</div>

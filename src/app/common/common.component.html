@@ -1,0 +1,7 @@
+<div class="row">
+    <div class="card col-md-3" *ngFor="let item of data">
+        <a routerLink="{{item.route}}" style="color: black;text-decoration: none;">
+            <h5>{{item.title}}<i class="{{item.icon}}" style="margin-left: 10px;"></i> </h5>
+        </a>
+    </div>
+</div>

@@ -1,0 +1,54 @@
+<select (change)="getStudentDetails($event)" class="btn btn-success" style="margin-left: 600px;">
+    <option value="">select class</option>
+    <option>1st-standard</option>
+    <option>2nd-standard</option>
+    <option>3rd-standard</option>
+    <option>4th-standard</option>
+    <option>5th-standard</option>
+    <option>6th-standard</option>
+    <option>7th-standard</option>
+    <option>8th-standard</option>
+    <option>9th-standard</option>
+    <option>10th-standard</option>
+
+
+</select>
+<div *ngIf="display" style="margin-top: 5px;">
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+
+                <th scope="col">Name</th>
+                <th scope="col">Class</th>
+                <th scope="col">D-O-B</th>
+                <th scope="col">Adhaar-No</th>
+                <th scope="col">Gender</th>
+                <th scope="col">FatherName</th>
+                <th scope="col">MatherName</th>
+                <th scope="col">Mobile No</th>
+                <th scope="col">Alternate-no</th>
+                <th scope="col">Due-fees</th>
+                <th scope="col">Address</th>
+                <th scope="col">Previous-school</th>
+            </tr>
+        </thead>
+        <tbody *ngFor="let item of data">
+            <tr>
+
+                <td>{{item.name}}</td>
+                <td>{{item.admissionfor}}</td>
+                <td>{{item.DOB}}</td>
+                <td>{{item.adhaarno}}</td>
+                <td>{{item.gender}}</td>
+                <td>{{item.fatherName}}</td>
+                <td>{{item.motherName}}</td>
+                <td>{{item.mobileno}}</td>
+                <td>{{item.alternateno}}</td>
+                <td>{{item.fees}}</td>
+                <td>{{item.permanentaddress}}</td>
+                <td>{{item.perviousschool}}</td>
+
+            </tr>
+        </tbody>
+    </table>
+</div>

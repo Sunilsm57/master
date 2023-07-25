@@ -1,0 +1,25 @@
+<div class="row">
+    <div class="card col-md-4 m-5" style="background-color: #fefae0;" *ngFor="let item of activities">
+        <h4 class="card-title">{{item.title}}</h4>
+        <ul>
+            <li *ngIf="item.activitie1">
+                <p class="card-text">{{item.activitie1}}</p>
+            </li>
+            <li *ngIf="item.activitie2">
+                <p class="card-text">{{item?.activitie2}}</p>
+            </li>
+            <li *ngIf="item.activitie3">
+                <p class="card-text">{{item.activitie3}}</p>
+            </li>
+            <li *ngIf="item.activitie4">
+                <p class="card-text">{{item.activitie4}}</p>
+            </li>
+            <li *ngIf="item.activitie5">
+                <p class="card-text">{{item.activitie5}}</p>
+            </li>
+            <li *ngIf="item.activitie6">
+                <p class="card-text">{{item?.activitie6}}</p>
+            </li>
+        </ul>
+    </div>
+</div>

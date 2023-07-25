@@ -1,0 +1,15 @@
+.admin-page img {
+    width: 100%;
+    height: 550px;
+
+}
+
+.admin-page {
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    top: 100px;
+    left: 450px;
+}
